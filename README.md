@@ -1,4 +1,5 @@
 **CALORIE ESTIMATOR**
+
 The Calorie Estimator project is designed to help individuals manage their dietary intake by estimating the calorie content of their meals and providing healthier alternatives. This project aims to promote better eating habits and support users in achieving their nutritional goals.
 
 **OBJECTIVES:**
