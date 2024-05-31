@@ -8,16 +8,20 @@ The Calorie Estimator project is designed to help individuals manage their dieta
   - Accurately estimate the calorie content of various foods and meals.
   - Utilize a comprehensive database of food items and their nutritional information.
   - Allow users to input custom recipes and receive detailed calorie breakdowns.
+
 2.Healthier Suggestions:
   - Provide users with healthier alternatives to high-calorie foods.
   - Suggest recipes and meal plans tailored to individual dietary needs and preferences.
   - Offer tips and guidelines for making healthier food choices.
+
 3.User Interface:
   - Develop a user-friendly interface for easy meal logging and calorie tracking.
   - Implement features such as a search bar for food items, barcode scanning for packaged foods, and visual representation of nutritional information.
+
 4.Personalization:
   - Customize suggestions based on user profiles, including age, gender, weight, height, activity level, and dietary restrictions.
   - Enable users to set personal health goals, such as weight loss, muscle gain, or maintenance.
+
 5.Integration and Accessibility:
   - Ensure compatibility with mobile devices and web browsers for accessibility.
   - Integrate with fitness trackers and health apps for comprehensive health monitoring.
